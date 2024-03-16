@@ -1,0 +1,2 @@
+Despues de intentarlo mucho no logre lo que propuse en el proyecto, y al final le presento la ultima version que logre que fuera estable, se ejecuta con el main.exe y el proyecto en si esta en la carpeta coding en el archivo main.cpp, lo lamento.
+-Jared Yahir Garcia Franquez 23110292 2P
